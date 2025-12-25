@@ -1,0 +1,9 @@
+Key (<Class ID>:<Assignment ID>): column a
+Due date (calendar selection); column d
+Due time; column e
+Class (dropdown selection); column f
+Assignment; column h
+Points earned; column k
+Points possible; column l
+
+NOTE: table begins at row 11, meaning that first assignment is at row 11
