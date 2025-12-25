@@ -1,0 +1,11 @@
+# Virtual envs
+.venv/
+venv/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Local zip artifacts
+lambda.zip
+layer.zip
